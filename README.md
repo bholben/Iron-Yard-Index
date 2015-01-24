@@ -6,7 +6,7 @@ The following repos were created during the front-end engineering bootcamp at Th
 ## Dynamic Pages - CSS & Javascript
 **[Etsy](https://github.com/bholben/Etsy)*** (HW 9)  
 *Technologies: HTML, CSS, Sass(SCSS), JavaScript, jQuery, Yeoman, Gulp, NPM, Bower*  
-Recreation of an Etsy search results page  
+Re-creation of an Etsy search results page  
 
 **[Accordion](https://github.com/bholben/Accordion)** (HW 8)  
 *Technologies: HTML, CSS, JavaScript, jQuery*  
