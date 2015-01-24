@@ -35,7 +35,7 @@ A fictitious page
 
 **[Octodex](https://github.com/bholben/Octodex)** (HW 2)  
 *Technologies: HTML, CSS*  
-CSS exercise using floats
+A CSS exercise using floats and positioning
 
 ## JavaScript Exercises
 
