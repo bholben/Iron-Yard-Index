@@ -9,11 +9,11 @@ The following repos were created during the front-end engineering bootcamp at Th
 Recreation of an Etsy search results page  
 
 **[Accordion](https://github.com/bholben/Accordion)** (HW 8)  
-*Technologies: HTML, CSS, JavaScript, jQuery*
+*Technologies: HTML, CSS, JavaScript, jQuery*  
 A homemade jQuery accordion  
 
 **[Digital Clock](https://github.com/bholben/Digital-Clock)*** (HW 7, part 3)  
-*Technologies: HTML, CSS, JavaScript*
+*Technologies: HTML, CSS, JavaScript*  
 A clock converted to hex values and dynamically adjusting the screen background
 
 **[Calculator](https://github.com/bholben/Calculator)** (HW 6 & bonus)  
