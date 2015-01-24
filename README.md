@@ -1,12 +1,23 @@
 # Iron-Yard-Index
 *An index of Iron Yard repositories*
 
-The following collection of repos are from exercises created during the front-end engineering bootcamp at The Iron Yard.  
-As used below, the word 'Technologies' means languages, frameworks, libraries, plugins, packages, pre-processors, tools, methodologies, etc.
+The following repos were created during the front-end engineering bootcamp at The Iron Yard.  They contain homework assignments and projects.  As used below, the word 'Technologies' means languages, frameworks, libraries, plugins, packages, pre-processors, tools, methodologies, etc.
 
-## Interactive Pages - CSS & Javascript
+## Dynamic Pages - CSS & Javascript
+**[Etsy](https://github.com/bholben/Etsy)** (HW 9*)  
+*Technologies: HTML, CSS, Sass(SCSS), JavaScript, jQuery, Yeoman, Gulp, NPM, Bower*  
+Recreation of an Etsy search results page  
+
+**[Accordion](https://github.com/bholben/Accordion)** (HW 8)  
+*Technologies: HTML, CSS, JavaScript, jQuery*
+A homemade jQuery accordion  
+
+**[Digital Clock](https://github.com/bholben/Digital-Clock)** (HW 7*, part 3)  
+*Technologies: HTML, CSS, JavaScript*
+A clock converted to hex values and dynamically adjusting the screen background
+
 **[Calculator](https://github.com/bholben/Calculator)** (HW 6 & bonus)  
-*Technologies: HTML, CSS, Sass(SASS), JavaScript*
+*Technologies: HTML, CSS, Sass(SASS), JavaScript*  
 A calculator mimicking the iOS calculator (portrait view)  
 
 ## Page Layout - Straight CSS
@@ -14,7 +25,7 @@ A calculator mimicking the iOS calculator (portrait view)
 *Technologies: HTML, CSS, Sass(SCSS), Jekyll*  
 My personal blog  
 
-**[Surf-Paddle](https://github.com/bholben/Surf-Paddle)** (HW 3/4 & bonus)  
+**[Surf-Paddle](https://github.com/bholben/Surf-Paddle)** (HW 3/4* & bonus)  
 *Technologies: HTML, CSS, Sass(SCSS), Normalize, Responsive*  
 A fictitious landing page created to emphasize CSS layout with one responsive breakpoint  
 
@@ -28,15 +39,15 @@ CSS exercise using floats
 
 ## JavaScript Exercises
 
-**[Map-Reduce-Filter](https://github.com/bholben/Map-Reduce-Filter)**  
+**[Map-Reduce-Filter](https://github.com/bholben/Map-Reduce-Filter)** (HW 8 bonus)  
 *Technologies: JavaScript*  
 Practice at re-writing the builtin looping functions using only a for loop  
 
-**[Etsy-Data-Parsing](https://github.com/bholben/Etsy-Data-Parsing)** (HW7, part 1)  
-*Technologies: JavaScript*
+**[Etsy-Data-Parsing](https://github.com/bholben/Etsy-Data-Parsing)** (HW 7*, part 1)  
+*Technologies: JavaScript*  
 Loop through array of data objects pulled from Etsy's API  
 
-**[Ten Simple Javascript Exercises](https://github.com/bholben/Ten-Simple-Javascript-Exercises)**  
+**[Ten Simple Javascript Exercises](https://github.com/bholben/Ten-Simple-Javascript-Exercises)** (HW 7*, part 2)  
 *Technologies: JavaScript*  
 Fun little exercises  
 
@@ -44,5 +55,4 @@ Fun little exercises
 *Technologies: JavaScript*  
 Real basic variable assignment stuff  
 
-**[]()**  
-
+*Multi-day or weekend assignment  
