@@ -59,4 +59,4 @@ Fun little exercises
 *Technologies: JavaScript*  
 Real basic variable assignment stuff  
 
-*Multi-day or weekend assignment  
+*Multi-day / weekend assignment  
