@@ -8,7 +8,7 @@ The following repos were created during the front-end engineering bootcamp at Th
 *Technologies: HTML, CSS, Sass(SCSS), JavaScript, jQuery, Yeoman, Gulp, NPM, Bower*  
 Re-creation of an Etsy search results page  
 
-**[Caesar Cipher](https://github.com/bholben/Caesar-Cipher)*** HW 9 bonus)  
+**[Caesar Cipher](https://github.com/bholben/Caesar-Cipher)*** (HW 9 bonus)  
 *Technologies: HTML, CSS, JavaScript, jQuery, Chosen (jQuery plugin)*  
 A simple Caesar cipher (ROT13, et al)
 
