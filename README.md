@@ -26,7 +26,7 @@ A calculator mimicking the iOS calculator (portrait view)
 
 ## Page Layout - Straight CSS
 **[My Blog]()** (HW 5)  
-*Technologies: HTML, CSS, Sass(SCSS), Jekyll*  
+*Technologies: HTML, CSS, Sass(SCSS), Jekyll, Markdown*  
 My personal blog  
 
 **[Surf-Paddle](https://github.com/bholben/Surf-Paddle)*** (HW 3/4 & bonus)  
