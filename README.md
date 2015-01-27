@@ -4,8 +4,12 @@
 The following repos were created during the front-end engineering bootcamp at The Iron Yard.  They contain homework assignments and projects.  As used below, the word 'Technologies' means languages, frameworks, libraries, plugins, packages, pre-processors, tools, methodologies, etc.
 
 ## Dynamic Pages - CSS & Javascript
+**[GitHub](https://github.com/bholben/GitHub)*** (HW 10)  
+*Technologies: HTML, CSS, JavaScript, jQuery, Sass(SCSS), Bourbon/Neat, Underscore (template), Yeoman, Gulp, NPM, Bower*  
+A re-creation of my GitHub repo page (Pulling live data from GitHub's API)  
+
 **[Etsy](https://github.com/bholben/Etsy)*** (HW 9)  
-*Technologies: HTML, CSS, Sass(SCSS), JavaScript, jQuery, Yeoman, Gulp, NPM, Bower*  
+*Technologies: HTML, CSS, JavaScript, jQuery, Sass(SCSS), Yeoman, Gulp, NPM, Bower*  
 Re-creation of an Etsy search results page  
 
 **[Caesar Cipher](https://github.com/bholben/Caesar-Cipher)*** (HW 9 bonus)  
