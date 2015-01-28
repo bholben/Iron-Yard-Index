@@ -5,7 +5,7 @@ The following repos were created during the front-end engineering bootcamp at Th
 
 ## Dynamic Pages - CSS & Javascript
 **[GitHub](https://github.com/bholben/GitHub)*** (HW 10)  
-*Technologies: HTML, CSS, JavaScript, jQuery, Sass(SCSS), Bourbon/Neat, Underscore (template), Yeoman, Gulp, NPM, Bower*  
+*Technologies: HTML, CSS, JavaScript, jQuery, Sass(SCSS), Bourbon/Neat, Underscore (template), Moment.js, Yeoman, Gulp, NPM, Bower*  
 A re-creation of my GitHub repo page (Pulling live data from GitHub's API)  
 
 **[Etsy](https://github.com/bholben/Etsy)*** (HW 9)  
