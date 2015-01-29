@@ -4,6 +4,10 @@
 The following repos were created during the front-end engineering bootcamp at The Iron Yard.  They contain homework assignments and projects.  As used below, the word 'Technologies' means languages, frameworks, libraries, plugins, packages, pre-processors, tools, methodologies, etc.
 
 ## Dynamic Pages - CSS & Javascript
+**[Alaydi's Cafe](https://github.com/bholben/Alaydis-Cafe)*** (HW 11)  
+*Technologies: HTML, CSS, JavaScript, jQuery, Sass(SCSS), responsive web design, Underscore (template), Yeoman, Gulp, NPM, Bower*  
+A group project where we created a restaurant website (we chose an actual restaurant).  
+
 **[GitHub](https://github.com/bholben/GitHub)*** (HW 10)  
 *Technologies: HTML, CSS, JavaScript, jQuery, Sass(SCSS), Bourbon/Neat, Underscore (template), Moment.js, Yeoman, Gulp, NPM, Bower*  
 A re-creation of my GitHub repo page (Pulling live data from GitHub's API)  
