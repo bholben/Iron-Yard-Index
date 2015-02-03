@@ -5,7 +5,8 @@ The following repos were created during the front-end engineering bootcamp at Th
 
 ## Dynamic Pages - CSS & Javascript
 **[Alaydi's Cafe](https://github.com/bholben/Alaydis-Cafe)*** (HW 11)  
-*Technologies: HTML, CSS, JavaScript, jQuery, Sass(SCSS), responsive web design, Underscore (template), Yeoman, Gulp, NPM, Bower*  
+*Technologies: HTML, CSS, JavaScript, jQuery, AJAX, Sass(SCSS), Underscore (template), Yeoman, Gulp, NPM, Bower*  
+*APIs: Instagram, Flickr, Internal Server*
 A group project where we created a restaurant website (we chose an actual restaurant).  
 
 **[GitHub](https://github.com/bholben/GitHub)*** (HW 10)  
@@ -50,6 +51,10 @@ A fictitious page
 A CSS exercise using floats and positioning
 
 ## JavaScript Exercises
+
+**[String Library](https://github.com/bholben/String-Library)** (HW 12)  
+*Technologies: JavaScript*  
+Practice at creating a library  
 
 **[Map-Reduce-Filter](https://github.com/bholben/Map-Reduce-Filter)** (HW 8 bonus)  
 *Technologies: JavaScript*  
