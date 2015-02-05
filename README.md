@@ -5,7 +5,7 @@ The following repos were created during the front-end engineering bootcamp at Th
 
 ## Dynamic Pages - CSS & Javascript
 **[Alaydi's Cafe](https://github.com/bholben/Alaydis-Cafe)*** (HW 11)  
-** A group project where we created a restaurant website (we chose an actual restaurant).**  
+**A group project where we created a restaurant website (we chose an actual restaurant).**  
 *Technologies: HTML, CSS, JavaScript, jQuery, AJAX, Sass(SCSS), Underscore (template)*  
 *APIs: Instagram, Flickr, Internal Server*  
 *Tooling: Yeoman, Gulp, NPM, Bower*  
