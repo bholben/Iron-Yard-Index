@@ -5,16 +5,19 @@ The following repos were created during the front-end engineering bootcamp at Th
 
 ## Dynamic Pages - CSS & Javascript
 **[Alaydi's Cafe](https://github.com/bholben/Alaydis-Cafe)*** (HW 11)  
-*Technologies: HTML, CSS, JavaScript, jQuery, AJAX, Sass(SCSS), Underscore (template), Yeoman, Gulp, NPM, Bower*  
+*Technologies: HTML, CSS, JavaScript, jQuery, AJAX, Sass(SCSS), Underscore (template)*  
 *APIs: Instagram, Flickr, Internal Server*  
+*Tooling: Yeoman, Gulp, NPM, Bower*  
 A group project where we created a restaurant website (we chose an actual restaurant).  
 
 **[GitHub](https://github.com/bholben/GitHub)*** (HW 10)  
-*Technologies: HTML, CSS, JavaScript, jQuery, Sass(SCSS), Bourbon/Neat, Underscore (template), Moment.js, Yeoman, Gulp, NPM, Bower*  
+*Technologies: HTML, CSS, JavaScript, jQuery, Sass(SCSS), Bourbon/Neat, Underscore (template), Moment.js*  
+*Tooling: Yeoman, Gulp, NPM, Bower*  
 A re-creation of my GitHub repo page (Pulling live data from GitHub's API)  
 
 **[Etsy](https://github.com/bholben/Etsy)*** (HW 9)  
-*Technologies: HTML, CSS, JavaScript, jQuery, Sass(SCSS), Yeoman, Gulp, NPM, Bower*  
+*Technologies: HTML, CSS, JavaScript, jQuery, Sass(SCSS)*  
+*Tooling: Yeoman, Gulp, NPM, Bower*  
 Re-creation of an Etsy search results page  
 
 **[Caesar Cipher](https://github.com/bholben/Caesar-Cipher)*** (HW 9 bonus)  
