@@ -52,6 +52,14 @@ A CSS exercise using floats and positioning
 
 ## JavaScript Exercises
 
+**[JavaScript Koans](https://github.com/bholben/javascript-koans)** (HW 14)  
+*Technologies: JavaScript*  
+JavaScript exercises through a testing framework  
+
+**[Constructors](https://github.com/bholben/Constructors)** (HW 13)  
+*Technologies: JavaScript*  
+Intro to Constructors  
+
 **[String Library](https://github.com/bholben/String-Library)** (HW 12)  
 *Technologies: JavaScript*  
 Practice at creating a library  
