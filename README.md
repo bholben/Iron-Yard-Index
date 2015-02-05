@@ -5,7 +5,7 @@ The following repos were created during the front-end engineering bootcamp at Th
 
 ## Dynamic Pages - CSS & Javascript
 **[Alaydi's Cafe](https://github.com/bholben/Alaydis-Cafe)*** (HW 11)  
-**A group project where we created a restaurant website (we chose an actual restaurant).**  
+A group project where we created a restaurant website (we chose an actual restaurant).  
 *Technologies: HTML, CSS, JavaScript, jQuery, AJAX, Sass(SCSS), Underscore (template)*  
 *APIs: Instagram, Flickr, Internal Server*  
 *Tooling: Yeoman, Gulp, NPM, Bower*  
@@ -21,7 +21,7 @@ Re-creation of an Etsy search results page
 *Tooling: Yeoman, Gulp, NPM, Bower*  
 
 **[Caesar Cipher](https://github.com/bholben/Caesar-Cipher)*** (HW 9 bonus)  
-A simple Caesar cipher (ROT13, et al)
+A simple Caesar cipher (ROT13, et al)  
 *Technologies: HTML, CSS, JavaScript, jQuery, Chosen (jQuery plugin)*  
 
 **[Accordion](https://github.com/bholben/Accordion)** (HW 8)  
@@ -29,7 +29,7 @@ A homemade jQuery accordion
 *Technologies: HTML, CSS, JavaScript, jQuery*  
 
 **[Digital Clock](https://github.com/bholben/Digital-Clock)*** (HW 7, part 3)  
-A clock converted to hex values and dynamically adjusting the screen background
+A clock converted to hex values and dynamically adjusting the screen background  
 *Technologies: HTML, CSS, JavaScript*  
 
 **[Calculator](https://github.com/bholben/Calculator)** (HW 6 & bonus)  
@@ -50,7 +50,7 @@ A fictitious page
 *Technologies: HTML, CSS, Jade, Sass(SCSS)*  
 
 **[Octodex](https://github.com/bholben/Octodex)** (HW 2)  
-A CSS exercise using floats and positioning
+A CSS exercise using floats and positioning  
 *Technologies: HTML, CSS*  
 
 ## JavaScript Exercises
