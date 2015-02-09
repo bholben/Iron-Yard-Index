@@ -46,7 +46,7 @@ A fictitious landing page created to emphasize CSS layout with one responsive br
 *Technologies: HTML, CSS, Sass(SCSS), Normalize, Responsive*  
 
 **[Blueprint](https://github.com/bholben/Blueprint)** (HW 4 bonus)  
-A fictitious page  
+A CSS exercise using floats and positioning  
 *Technologies: HTML, CSS, Jade, Sass(SCSS)*  
 
 **[Octodex](https://github.com/bholben/Octodex)** (HW 2)  
