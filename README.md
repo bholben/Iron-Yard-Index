@@ -34,7 +34,7 @@ A clock converted to hex values and dynamically adjusting the screen background
 
 **[Calculator](https://github.com/bholben/Calculator)** (HW 6 & bonus)  
 A calculator mimicking the iOS calculator (portrait view)  
-*Technologies: HTML, CSS, Sass(SASS), JavaScript*  
+*Technologies: HTML, CSS, Jade, Sass(SASS), JavaScript*  
 
 ## Page Layout - Straight CSS
 **[My Blog]()** (HW 5)  
