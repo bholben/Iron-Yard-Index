@@ -4,13 +4,24 @@
 The following repos were created during the front-end engineering bootcamp at The Iron Yard.  They contain homework assignments and projects.  As used below, the word 'Technologies' means languages, frameworks, libraries, plugins, packages, pre-processors, tools, methodologies, etc.
 
 ## Dynamic Pages - CSS & Javascript
+
+**[Relationship Manager with Authentication](https://github.com/bholben/Relationship-Manager-with-Auth)*** (HW 20)  
+
+**[Relationship Manager](https://github.com/bholben/Relationship-Manager)*** (HW 19)  
+
+**[ToDo-Backbone Model](https://github.com/bholben/ToDo-Backbone)** (HW 18)  
+
+**[ToDo-jQuery](https://github.com/bholben/ToDo-jQuery)** (HW 17)  
+
+**[Poker](https://github.com/bholben/Poker)*** (HW 15)  
+
 **[Alaydi's Cafe](https://github.com/bholben/Alaydis-Cafe)*** (HW 11)  
 A group project where we created a restaurant website (we chose an actual restaurant).  
 *Technologies: HTML, CSS, JavaScript, jQuery, AJAX, Sass(SCSS), Underscore (template)*  
 *APIs: Instagram, Flickr, Internal Server*  
 *Tooling: Yeoman, Gulp, NPM, Bower*  
 
-**[GitHub](https://github.com/bholben/GitHub)*** (HW 10)  
+**[GitHub](https://github.com/bholben/GitHub)*** (HW 10 & HW 16)  
 A re-creation of my GitHub repo page (Pulling live data from GitHub's API)  
 *Technologies: HTML, CSS, JavaScript, jQuery, Sass(SCSS), Bourbon/Neat, Underscore (template), Moment.js*  
 *Tooling: Yeoman, Gulp, NPM, Bower*  
