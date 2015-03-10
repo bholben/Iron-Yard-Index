@@ -5,11 +5,25 @@ The following repos were created during the front-end engineering bootcamp at Th
 
 ## Dynamic Pages - CSS & Javascript
 
-**[Relationship Manager with Authentication](https://github.com/bholben/Relationship-Manager-with-Auth)*** (HW 20)  
+**[Jobber](https://github.com/bholben/Jobber)*** (Hackathon)  
+Combined group project with RoR and iOS team members.  
+*Technologies: HTML, CSS, Sass, JavaScript, AngularJS, MaterializeCSS, Flaticon, Underscore, User auth, cookies, Gravatar, Divshot*  
+*Tooling: Yeoman, Gulp, NPM, Bower*  
 
-**[Relationship Manager](https://github.com/bholben/Relationship-Manager)*** (HW 19)  
+**[Monster Checkers](https://github.com/bholben/Checkers)*** (Group project)  
+First combined group project with RoR and iOS team members.  
+*Technologies: HTML, CSS, Sass, JavaScript, Backbone, Bootstrap, Underscore, User auth, cookies, Gravatar, Divshot*  
+*Tooling: Yeoman, Gulp, NPM, Bower*  
+
+**[Relationship Manager](https://github.com/bholben/Relationship-Manager)*** (HW 19 & 20)  
+Angular CRUD app with user authentication and a Parse back end.  
+*Technologies: HTML, CSS, Sass, JavaScript, AngularJS, Bootstrap, UI Bootstrap, Font Awesome, Underscore, User auth, cookies, Gravatar, Divshot*  
+*Tooling: Yeoman, Gulp, NPM, Bower*  
 
 **[ToDo-Backbone Model](https://github.com/bholben/ToDo-Backbone)*** (HW 18)  
+First Backbone app - a ToDo list app (re-)built using Backbone models and collections.  
+*Technologies: HTML, CSS, Sass, JavaScript, jQuery, Backbone, Divshot*  
+*Tooling: Yeoman, Gulp, NPM, Bower*  
 
 **[ToDo-jQuery](https://github.com/bholben/ToDo-jQuery)*** (HW 17)  
 A ToDo list app built with jQuery using TDD/BDD.  
@@ -23,8 +37,8 @@ Weekend project - create a game.
 
 **[Alaydi's Cafe](https://github.com/bholben/Alaydis-Cafe)*** (HW 11)  
 A group project where we created a restaurant website (we chose an actual restaurant).  
-*Technologies: HTML, CSS, JavaScript, jQuery, AJAX, Sass(SCSS), Underscore (template)*  
-*APIs: Instagram, Flickr, Internal Server*  
+*Technologies: HTML, CSS, JavaScript, jQuery, AJAX, Sass(SCSS), Underscore (template), Divshot*  
+*APIs: Instagram, Flickr, Google Maps, Internal Server*  
 *Tooling: Yeoman, Gulp, NPM, Bower*  
 
 **[GitHub](https://github.com/bholben/GitHub)*** (HW 10 & HW 16)  
