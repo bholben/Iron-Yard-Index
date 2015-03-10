@@ -9,11 +9,17 @@ The following repos were created during the front-end engineering bootcamp at Th
 
 **[Relationship Manager](https://github.com/bholben/Relationship-Manager)*** (HW 19)  
 
-**[ToDo-Backbone Model](https://github.com/bholben/ToDo-Backbone)** (HW 18)  
+**[ToDo-Backbone Model](https://github.com/bholben/ToDo-Backbone)*** (HW 18)  
 
-**[ToDo-jQuery](https://github.com/bholben/ToDo-jQuery)** (HW 17)  
+**[ToDo-jQuery](https://github.com/bholben/ToDo-jQuery)*** (HW 17)  
+A ToDo list app built with jQuery using TDD/BDD.  
+*Technologies: HTML, CSS, JavaScript, jQuery, Sass, Mocha, Chai, Divshot*  
+*Tooling: Yeoman, Gulp, NPM, Bower*  
 
 **[Poker](https://github.com/bholben/Poker)*** (HW 15)  
+Weekend project - create a game.  
+*Technologies: HTML, CSS, JavaScript, jQuery, Sass, Underscore, Bootstrap, Image sprites, Divshot*  
+*Tooling: Yeoman, Gulp, NPM, Bower*  
 
 **[Alaydi's Cafe](https://github.com/bholben/Alaydis-Cafe)*** (HW 11)  
 A group project where we created a restaurant website (we chose an actual restaurant).  
@@ -37,7 +43,7 @@ A simple Caesar cipher (ROT13, et al)
 
 **[Accordion](https://github.com/bholben/Accordion)** (HW 8)  
 A homemade jQuery accordion  
-*Technologies: HTML, CSS, JavaScript, jQuery*  
+*Technologies: HTML, CSS, jQuery*  
 
 **[Digital Clock](https://github.com/bholben/Digital-Clock)*** (HW 7, part 3)  
 A clock converted to hex values and dynamically adjusting the screen background  
