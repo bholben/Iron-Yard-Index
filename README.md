@@ -5,6 +5,11 @@ The following repos were created during the front-end engineering bootcamp at Th
 
 ## Dynamic Pages - CSS & Javascript
 
+**Final Project is in a private repo**  
+Small business accounting app - similar to QuickBooks.  3 week group project with a Rails back end.  
+*Technologies: HTML, CSS, Jade, Stylus, JavaScript, AngularJS, MaterializeCSS, Underscore, User auth, cookies, Gravatar, Divshot*  
+*Tooling: Yeoman, Gulp, NPM, Bower*  
+
 **[Jobber](https://github.com/bholben/Jobber)*** (Hackathon)  
 Combined group project with RoR and iOS team members.  
 *Technologies: HTML, CSS, Sass, JavaScript, AngularJS, MaterializeCSS, Flaticon, Underscore, User auth, cookies, Gravatar, Divshot*  
