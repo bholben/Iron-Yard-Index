@@ -1,9 +1,9 @@
 # Iron-Yard-Index
 *An index of Iron Yard repositories*
 
-The following repos were created during the front-end engineering bootcamp at The Iron Yard.  They contain homework assignments and projects.  As used below, the word 'Technologies' means languages, frameworks, libraries, plugins, packages, pre-processors, tools, methodologies, etc.
+The following repos were created during the 12-week front-end engineering bootcamp at The Iron Yard.  They contain homework assignments and projects with links to deployed sites.  As used below, the word 'Technologies' means languages, frameworks, libraries, plugins, packages, pre-processors, tools, methodologies, etc.
 
-## Dynamic Pages - CSS & Javascript
+## Group Projects
 
 **Final Project is in a private repo**  
 Small business accounting app - similar to QuickBooks.  3 week group project with a Rails back end.  
@@ -19,6 +19,15 @@ Combined group project with RoR and iOS team members.
 First combined group project with RoR and iOS team members.  
 *Technologies: HTML, CSS, Sass, JavaScript, Backbone, Bootstrap, Underscore, User auth, cookies, Gravatar, Divshot*  
 *Tooling: Yeoman, Gulp, NPM, Bower*  
+
+**[Alaydi's Cafe](https://github.com/bholben/Alaydis-Cafe)*** (Group project - front-end only)  
+A group project where we created a restaurant website (we chose an actual restaurant).  
+*Technologies: HTML, CSS, JavaScript, jQuery, AJAX, Sass(SCSS), Underscore (template), Divshot*  
+*APIs: Instagram, Flickr, Google Maps, Internal Server*  
+*Tooling: Yeoman, Gulp, NPM, Bower*  
+
+
+## Dynamic Pages - CSS & Javascript
 
 **[Relationship Manager](https://github.com/bholben/Relationship-Manager)*** (HW 19 & 20)  
 Angular CRUD app with user authentication and a Parse back end.  
@@ -38,12 +47,6 @@ A ToDo list app built with jQuery using TDD/BDD.
 **[Poker](https://github.com/bholben/Poker)*** (HW 15)  
 Weekend project - create a game.  
 *Technologies: HTML, CSS, JavaScript, jQuery, Sass, Underscore, Bootstrap, Image sprites, Divshot*  
-*Tooling: Yeoman, Gulp, NPM, Bower*  
-
-**[Alaydi's Cafe](https://github.com/bholben/Alaydis-Cafe)*** (HW 11)  
-A group project where we created a restaurant website (we chose an actual restaurant).  
-*Technologies: HTML, CSS, JavaScript, jQuery, AJAX, Sass(SCSS), Underscore (template), Divshot*  
-*APIs: Instagram, Flickr, Google Maps, Internal Server*  
 *Tooling: Yeoman, Gulp, NPM, Bower*  
 
 **[GitHub](https://github.com/bholben/GitHub)*** (HW 10 & HW 16)  
@@ -72,10 +75,8 @@ A clock converted to hex values and dynamically adjusting the screen background
 A calculator mimicking the iOS calculator (portrait view)  
 *Technologies: HTML, CSS, Jade, Sass(SASS), JavaScript*  
 
+
 ## Page Layout - Straight CSS
-**[My Blog]()** (HW 5)  
-My personal blog  
-*Technologies: HTML, CSS, Sass(SCSS), Jekyll, Markdown*  
 
 **[Surf-Paddle](https://github.com/bholben/Surf-Paddle)*** (HW 3/4 & bonus)  
 A fictitious landing page created to emphasize CSS layout with one responsive breakpoint  
@@ -88,6 +89,7 @@ A CSS exercise using floats and positioning
 **[Octodex](https://github.com/bholben/Octodex)** (HW 2)  
 A CSS exercise using floats and positioning  
 *Technologies: HTML, CSS*  
+
 
 ## JavaScript Exercises
 
