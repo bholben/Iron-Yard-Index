@@ -1,7 +1,7 @@
 # Iron-Yard-Index
 *An index of Iron Yard repositories*
 
-The following repos were created during the 12-week front-end engineering bootcamp at The Iron Yard.  They contain homework assignments and projects with links to deployed sites.  As used below, the word 'Technologies' means languages, frameworks, libraries, plugins, packages, pre-processors, tools, methodologies, etc.
+The following repos were created during the 12-week front-end engineering bootcamp at The Iron Yard.  They contain homework assignments and fast-paced projects (many are simply proof-of-concept) with links to deployed sites.  As used below, the word 'Technologies' means languages, frameworks, libraries, plugins, packages, pre-processors, tools, methodologies, etc.
 
 ## Group Projects
 
