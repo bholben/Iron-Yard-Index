@@ -11,7 +11,7 @@ Small business accounting app - similar to QuickBooks.  3 week project.  I had a
 *Tooling: Gulp (I built the gulp file from scratch), NPM, Bower*  
 
 **[Jobber](https://github.com/bholben/Jobber)*** (Hackathon)  
-Combined group project with RoR and iOS team members.  
+Combined group project with RoR and iOS team members. I was the only front end developer.  
 *Technologies: HTML, CSS, Sass, JavaScript, AngularJS, MaterializeCSS, Flaticon, Underscore, User auth, cookies, Gravatar, Divshot*  
 *Tooling: Yeoman, Gulp, NPM, Bower*  
 
