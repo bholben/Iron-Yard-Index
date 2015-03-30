@@ -5,10 +5,10 @@ The following repos were created during the 12-week front-end engineering bootca
 
 ## Group Projects
 
-**Final Project is in a private repo**  
-Small business accounting app - similar to QuickBooks.  3 week group project with a Rails back end.  
-*Technologies: HTML, CSS, Jade, Stylus, JavaScript, AngularJS, MaterializeCSS, Underscore, User auth, cookies, Gravatar, Divshot*  
-*Tooling: Yeoman, Gulp, NPM, Bower*  
+**[Zen Accounting](http://development.bholben-zen.divshot.io) (in a private repo)**  
+Small business accounting app - similar to QuickBooks.  3 week project.  I had a partner who built the Rails back end.  
+*Technologies: HTML, CSS, Jade, Stylus, JavaScript, AngularJS, UI.Bootstrap, Underscore, User auth, cookies, Gravatar, Divshot*  
+*Tooling: Gulp (I built the gulp file from scratch), NPM, Bower*  
 
 **[Jobber](https://github.com/bholben/Jobber)*** (Hackathon)  
 Combined group project with RoR and iOS team members.  
