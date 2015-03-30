@@ -15,7 +15,7 @@ Combined group project with RoR and iOS team members.
 *Technologies: HTML, CSS, Sass, JavaScript, AngularJS, MaterializeCSS, Flaticon, Underscore, User auth, cookies, Gravatar, Divshot*  
 *Tooling: Yeoman, Gulp, NPM, Bower*  
 
-**[Monster Checkers](https://github.com/bholben/Checkers)*** (Group project)  
+**[Monster Checkers](https://github.com/bholben/Checkers)***  
 First combined group project with RoR and iOS team members.  
 *Technologies: HTML, CSS, Sass, JavaScript, Backbone, Bootstrap, Underscore, User auth, cookies, Gravatar, Divshot*  
 *Tooling: Yeoman, Gulp, NPM, Bower*  
